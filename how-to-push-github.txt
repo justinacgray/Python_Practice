@@ -1,0 +1,23 @@
+NEW REPO
+===========
+
+git init
+git status
+git add .         ----->   (stands for git add all)
+git status
+git commit -m "commit message"
+git branch -M main    ----->     (renaming master branch to main)
+git remote add origin (gitHub link)
+git push -u origin main
+
+
+
+
+EXISTING REPO
+==============
+git status
+git add .
+git commit -m "commit message"
+git push origin main
+
+
